@@ -1,0 +1,100 @@
+1. 
+a
+int je pre celé čísla, double pre desatinné.
+b
+int je pre desatinné čísla, double pre celé čísla.
+c
+double je pre celé čísla, int pre desatinné čísla.
+d
+double je pre desatinné čísla, int pre celé čísla.
+a
+2.
+a
+Násobí hodnotu premennej.
+b
+Priradzuje hodnotu premennej.
+c
+Odčítava hodnotu premennej.
+d
+Porovnáva hodnotu premennej.
+b
+3. 
+a
+Vykonáva kód, ak je podmienka nepravdivá.
+b
+Vynecháva kód, ak je podmienka nepravdivá.
+c
+Vykonáva kód, bez ohľadu na podmienku.
+d
+Vykonáva kód, ak je podmienka pravdivá.
+d
+4.
+a
+Opakované vykonávanie kódu určitý počet krát.
+b
+Opakované vykonávanie kódu do nekonečna.
+c 
+Opakované vykonávanie kódu iba raz.
+d
+Opakované vykonávanie kódu náhodný počet krát.
+a
+5.
+a
+(AND), (OR), (NOT).
+b
+AND, OR, XOR.
+c
+&& (AND), || (OR), ! (NOT).
+d
+AND, OR, NAND.
+c
+6.
+a 
+Definícia s názvom, typom a parametrami; volanie pomocou jej názvu.
+b
+Definícia iba s názvom.
+c
+Volanie bez definície.
+d
+Volanie iba s názvom a typom.
+a
+7.
+a
+Usporiadaná kolekcia rôznych typov.
+b
+Neusporiadaná kolekcia rôznych typov.
+c
+Neusporiadaná kolekcia rovnakých a rôznych typov.
+d
+Usporiadaná kolekcia rovnakých typov.
+d
+8. 
+a
+premenná << cin;
+b
+cin >> premenná;
+c
+premenná >> cin;
+d
+cin << premenná;
+b
+9. 
+a
+// pre jednoriadkový, /* ... */ pre viacriadkový.
+b
+/* pre jednoriadkový, // pre viacriadkový.
+c
+/* pre jednoriadkový, /* ... */ pre viacriadkový.
+d
+// pre jednoriadkový, // pre viacriadkový.
+a
+10. 
+a
+Výpis údajov do súboru pomocou std::cout << hodnota;
+b
+Získanie údajov z obrazovky pomocou std::cin >> hodnota;
+c
+Výstup údajov na obrazovku pomocou std::cout << hodnota;
+d
+Výpis údajov na konzolu pomocou std::print << hodnota;
+c

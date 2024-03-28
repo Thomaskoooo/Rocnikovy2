@@ -1,0 +1,10 @@
+1. Aký je rozdiel medzi premennou typu int a double v jazyku C++ a kedy by ste použili každý z nich?
+2. Čo je to operátor priradenia (=) a aký je jeho účel v jazyku C++?
+3. Aký je účel podmienkového príkazu if a ako sa používa v C++?
+4. Čo je to cyklus for a na aké účely sa najčastejšie využíva v jazyku C++?
+5. Aké sú základné logické operátory v jazyku C++ a ako sa používajú?
+6. Ako vytvoríte funkciu v jazyku C++ a ako sa volá v kóde?
+7. Čo je to pole a ako sa v jazyku C++ definuje jednorozmerné pole?
+8. Ako získate vstup od používateľa pomocou štandardného vstupu (cin) v jazyku C++?
+9. Čo je to komentár a aké sú dva základné typy komentárov v jazyku C++?
+10. Aký je význam štandardného výstupu (cout) v jazyku C++ a ako sa používa na výpis údajov na obrazovku?
