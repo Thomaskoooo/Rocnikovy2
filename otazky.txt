@@ -8,3 +8,8 @@
 8. Ako získate vstup od používateľa pomocou štandardného vstupu (cin) v jazyku C++?
 9. Čo je to komentár a aké sú dva základné typy komentárov v jazyku C++?
 10. Aký je význam štandardného výstupu (cout) v jazyku C++ a ako sa používa na výpis údajov na obrazovku?
+11. Čo je to programovací jazyk C++ a prečo je populárny?
+12. Aké sú základné dátové typy v C++?
+13. Aký je rozdiel medzi premennou a konštantou v C++?
+14. Čo je to priradenie a ako sa používa v C++?
+15. Aké sú základné operátory v C++?

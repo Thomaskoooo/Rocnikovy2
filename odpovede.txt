@@ -98,3 +98,54 @@ Výstup údajov na obrazovku pomocou std::cout << hodnota;
 d
 Výpis údajov na konzolu pomocou std::print << hodnota;
 c
+11.
+Čo je to programovací jazyk C++ a prečo je populárny?
+a
+C++ je programovací jazyk používaný na vytváranie softvéru. Je populárny kvôli svojej vysoko výkonnosti a možnosti objektovo-orientovaného programovania.
+b
+C++ je programovací jazyk určený iba pre web development. Je populárny kvôli svojej jednoduchosti a ľahkosti použitia.
+c
+C++ je programovací jazyk, ktorý sa používa výhradne na vytváranie mobilných aplikácií. Je populárny kvôli svojej integrovanosti s rôznymi operačnými systémami.
+d
+C++ je programovací jazyk, ktorý sa používa na vývoj aplikácií na platforme Android. Je populárny pre svoju schopnosť efektívne pracovať s pamäťou a hardvérom.
+a
+12.
+a
+int, char, float, double.
+b
+text, číslo, boolean, zoznam.
+c
+dátum, čas, reťazec, boolean.
+d
+vektor, matica, reťazec, číslo.
+a
+13.
+a
+Premenná je hodnota, ktorá sa môže meniť, zatiaľ čo konštanta je hodnota, ktorá zostáva nezmenená počas behu programu.
+b
+Premenná je používaná iba v podmienkach, zatiaľ čo konštanta je používaná pri priradení hodnôt.
+c
+Premenná je deklarovaná pomocou slova "const", zatiaľ čo konštanta je deklarovaná ako bežná premenná.
+d
+Premenná je len pre čísla, zatiaľ čo konštanta je len pre reťazce.
+a
+14.
+a
+Priradenie je proces vytvárania nových premenných v C++ pomocou operátora ":".
+b
+Priradenie je proces priradenia hodnoty existujúcej premennej pomocou operátora "=".
+c
+Priradenie je proces vykonávania matematických operácií medzi premennými pomocou operátora "+".
+d
+Priradenie je proces odstránenia premennej z pamäti pomocou operátora "delete".
+b
+15.    
+a
++, -, *, /, %
+b
+++, --, +=, -=, *=, /=
+c
+==, !=, >, <, >=, <=
+d
+Všetky uvedené možnosti.
+d
